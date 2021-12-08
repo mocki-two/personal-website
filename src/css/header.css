@@ -1,0 +1,14 @@
+.first-header {
+  font-family: "Cairo", sans-serif;
+  background-color: rgb(113, 89, 248);
+  color: rgb(255, 255, 255);
+}
+
+.header-link {
+  font-weight: 700;
+  color: rgb(252, 252, 252);
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,55 @@
+.first-main {
+  font-family: "Cairo", sans-serif;
+  margin: 5px;
+}
+
+.above-hashtag-list {
+  font-weight: 400;
+  margin-top: 16px;
+}
+
+.hashtag-list {
+  border: solid 6px rgb(113, 89, 248);
+}
+
+.important-links {
+  padding: 10px;
+  margin: 10px;
+}
+
+.about {
+  font-weight: 700;
+  font-size: 1.5em;
+  padding: 16px 16px 16px 0px;
+}
+
+.table-auto {
+  width: 100%;
+}
+
+.table-text {
+  text-align: center;
+  padding: 5px;
+}
+.button-text {
+  padding: 5px;
+}
+
+@media (max-width: 600px) {
+  .youtube {
+    display: none;
+  }
+}
+.quote {
+  font-style: italic;
+}
+.quote-name {
+  padding: 0 0 16px 0;
+}
+.youtube {
+  padding: 16px;
+}
+
+.hidden {
+  display: none;
+}

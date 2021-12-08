@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10px;
+}
+
+h1 {
+  padding: 16px;
+  color: rgb(23, 30, 59);
+}
+
+h3 {
+  padding: 16px 0px 16px 0px;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+h4 {
+  padding: 16px 0px 16px 0px;
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+ul {
+  padding: 16px;
+}
+
+img {
+  width: 100;
+}

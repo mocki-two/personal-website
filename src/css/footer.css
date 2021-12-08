@@ -1,0 +1,15 @@
+.contact-footer {
+  background-color: rgb(177, 176, 176);
+}
+
+.contact-box {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.contact,
+.adress1,
+.adress2,
+.funny-footer {
+  padding: 16px;
+}
